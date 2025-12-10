@@ -1,0 +1,1 @@
+create database ss7_k1db
