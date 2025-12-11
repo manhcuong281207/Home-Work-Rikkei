@@ -1,0 +1,1 @@
+create schema ss7_k2
