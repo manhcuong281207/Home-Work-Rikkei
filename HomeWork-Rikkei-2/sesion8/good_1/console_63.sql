@@ -1,0 +1,1 @@
+create database ss8_k1db;
