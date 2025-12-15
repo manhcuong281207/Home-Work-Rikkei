@@ -1,0 +1,1 @@
+create database ss10_k1db
