@@ -1,0 +1,1 @@
+create schema ss10_k2
