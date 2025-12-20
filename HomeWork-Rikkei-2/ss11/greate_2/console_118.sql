@@ -1,0 +1,1 @@
+create database ss11_g2db
